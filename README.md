@@ -14,6 +14,6 @@ Tools 1 & 2 are for converting RAST tab-delimited gene files into tables for imp
 
 Tool 3 converts the RAST tab-delimited gene file into a [GFF-formatted](https://useast.ensembl.org/info/website/upload/gff.html) file for use in bedtools or similar. I use it for identifying the number of reads recruiting to each gene region.
 
-Tool 4 merges information from RAST to make a more informative header per gene. Information includes original protein id, RAST annotation, subsystem info, and heme count. If you use this tool, you should cite: DOI:10.1093/nar/gki866
+Tool 4 merges information from RAST to make a more informative header per gene. Information includes original protein id, RAST annotation, subsystem info, and heme count. If you use this tool, you should cite: [DOI:10.1093/nar/gki866](https://academic.oup.com/nar/article/33/17/5691/1067791)
 
 Tool 5 uses the output from the script ```jgi_summarize_bam_contig_depths```, which can be found bundled with [MetaBat](https://bitbucket.org/berkeleylab/metabat) to add coverage information to fasta file headers. This is a requirement for MG-RAST imports.
