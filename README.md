@@ -1,6 +1,6 @@
 # RAST tools
 
-A collection of tools for converting RAST and MG-RAST outputs for use in other programs.
+A collection of tools for converting RAST and MG-RAST outputs for use in other programs. When you call the program use ```-h``` to see the help information.
 
 Tools:
 
