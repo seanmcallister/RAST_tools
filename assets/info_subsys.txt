@@ -1,0 +1,12 @@
+The subsys.txt file was downloaded from:
+
+ftp://ftp.theseed.org
+/subsystems/subsys.txt
+
+From The SEED website (theseed.org):
+"All tools and datasets that make up the SEED are in the public domain and can be downloaded at ftp://ftp.theseed.org"
+
+If you use, please cite:
+Overbeek et al., 2005
+DOI:10.1093/nar/gki866
+
