@@ -10,7 +10,7 @@ Tools:
 4. ```merge_fastaheader_RASTannotation.pl```
 5. ```mgrast_cov_header.pl```
 
-Tools 1 & 2 are for converting RAST tab-delimited gene files into tables for import into Anvio databases.
+Tools 1 & 2 are for converting RAST tab-delimited gene files into gene and annotation tables for import into Anvio databases.
 
 Tool 3 converts the RAST tab-delimited gene file into a [GFF-formatted](https://useast.ensembl.org/info/website/upload/gff.html) file for use in bedtools or similar. I use it for identifying the number of reads recruiting to each gene region.
 
